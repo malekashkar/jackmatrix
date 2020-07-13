@@ -1,0 +1,22 @@
+{
+  "696986577062068264": {
+    "rewards": "706240938258726932",
+    "achievement": "706240939173216367",
+    "announcements": "706240936979595265",
+    "default": 1000,
+    "maxLvls": 0,
+    "adminRoles": [],
+    "members": {},
+    "expRoles": {}
+  },
+  "695544122072891422": {
+    "rewards": "706459504165781505",
+    "achievement": "706459505306763284",
+    "announcements": "706459503226519572",
+    "default": 1000,
+    "maxLvls": 0,
+    "adminRoles": [],
+    "members": {},
+    "expRoles": {}
+  }
+}
